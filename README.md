@@ -38,6 +38,9 @@ L'utilisateur recevra un e-mail l'invitant au repository. Une fois qu'il aura ac
 
 
 4 ) Création d'un module Terraform
+
+
+
 5 ) Workflow : création du fichier terraform.yml et ajout des variables pour l'environnement et le token
   Les valeurs suivantes :
   
