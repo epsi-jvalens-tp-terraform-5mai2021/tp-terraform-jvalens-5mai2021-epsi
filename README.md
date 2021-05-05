@@ -22,3 +22,16 @@ Etape 2 :
 
 Créer le fichier .github/workflows/github-actions.yml
 
+
+
+3 ) Ajouter des personnes sur le projet 
+
+
+Demandez le nom d'utilisateur de la personne que vous invitez en tant que collaborateur. Si elle n'a pas encore de nom d'utilisateur, elle doit s'inscrire sur GitHub.
+Sur GitHub, accédez à la page principale du dépot.
+Sous le nom de votre projet, cliquez sur Paramètres.
+Dans la barre latérale de gauche, cliquez sur Collaborateurs.
+Sous Collaborateurs, commencez à taper le nom d'utilisateur du collaborateur.
+Sélectionnez le nom d'utilisateur du collaborateur dans le menu déroulant.
+Cliquez sur Ajouter un collaborateur.
+L'utilisateur recevra un e-mail l'invitant au repository. Une fois qu'il aura accepté votre invitation, il aura un accès collaborateur au dépôt.
