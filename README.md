@@ -38,3 +38,16 @@ L'utilisateur recevra un e-mail l'invitant au repository. Une fois qu'il aura ac
 
 
 4 ) Création d'un module Terraform
+
+5) Configure GitHub Provider on organization
+6) Ajout d'un utilisateur admin au repos
+7) github_branch_protection
+8) users & groups
+9) Setup workflow with terraform.yml in folder workflow and declare environnement
+env:
+        TF_VAR_git_token: ${{ secrets.GIT_TOKEN }}
+à mettre dans le init / plan / apply
+
+
+
+
