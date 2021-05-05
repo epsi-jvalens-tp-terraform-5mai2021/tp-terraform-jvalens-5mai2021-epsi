@@ -35,3 +35,6 @@ Sous Collaborateurs, commencez à taper le nom d'utilisateur du collaborateur.
 Sélectionnez le nom d'utilisateur du collaborateur dans le menu déroulant.
 Cliquez sur Ajouter un collaborateur.
 L'utilisateur recevra un e-mail l'invitant au repository. Une fois qu'il aura accepté votre invitation, il aura un accès collaborateur au dépôt.
+
+
+4 ) Création d'un module Terraform
