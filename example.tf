@@ -10,7 +10,7 @@ resource "github_membership" "membership_for_user_x" {
 }
 
 
-module "myteam" {
+module "module" {
   source = "./module/"
 
   repository = "my-super-repo"
